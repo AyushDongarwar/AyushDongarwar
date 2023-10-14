@@ -1,14 +1,37 @@
-- 👋 Hi, I’m @AyushDongarwar
-- 👀 I’m interested in Robotics and Blockchain Integration..
-- 🌱 I’m currently learning Robotic And Solidity..
-- 💞️ I’m looking for pepole who have similar intrest or have some ideas related to it..
-- 📫 How to reach me: You can connet me on Linkdin (https://www.linkdin.com/in/iayushdongarwar)
--  
+<h1 align="center">Hi 👋, I'm Ayush Dongarwar</h1>
+<h3 align="center">A passionate frontend developer from Earth</h3>
 
-As a Bachelor’s degree student in Robotics and Artificial Intelligence, I am passionate about exploring the intersection of these two fields. I am particularly interested in the integration of blockchain technology with robotics to improve AI services and solve problems that are present in major blockchains. I believe that this integration can lead to the creation of robotic systems with increased capabilities and security.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iayushdongarwar&label=Profile%20views&color=0e75b6&style=flat" alt="iayushdongarwar" /> </p>
 
-My academic background has provided me with a strong foundation in robotics and artificial intelligence, which I have supplemented with independent research on blockchain technology. I have gained experience in developing blockchain-based applications and have worked on several projects that involve integrating blockchain technology with robotics.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iayushdongarwar" alt="iayushdongarwar" /></a> </p>
 
-I am excited to continue exploring this field and contributing to it in the future. My goal is to leverage my knowledge and skills to develop innovative solutions that can help solve real-world problems.
+- 🔭 I’m currently working on **Robotics and Blockchain integration**
 
-Thank you for considering my application. Please feel free to contact me if you have any questions or would like to learn more about my work.
+- 🌱 I’m currently learning **Solidity And other Robotics programming languages**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iayushdongarwar](https://www.linkedin.com/in/iayushdongarwar)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/iayushdongarwar](https://www.linkedin.com/in/iayushdongarwar)
+
+- 💬 Ask me about **Robotics,Artifical Int.and Blockchain development**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/iayushdongarwar](https://www.linkedin.com/in/iayushdongarwar)
+
+- ⚡ Fun fact **No**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/iayushdongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iayushdongarwar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/i_ayush_dongar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/i_ayush_dongar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ayush_dongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayush_dongarwar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/i_ayush_dongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/i_ayush_dongarwar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iayushdongarwar&show_icons=true&locale=en&layout=compact" alt="iayushdongarwar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iayushdongarwar&show_icons=true&locale=en" alt="iayushdongarwar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iayushdongarwar&" alt="iayushdongarwar" /></p>
