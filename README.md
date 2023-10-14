@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iayushdongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iayushdongarwar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/i_ayush_dongar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/i_ayush_dongar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ayush_dongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayush_dongarwar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ayush_dongarwar" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://repository-images.githubusercontent.com/639401815/9a40c3d8-d6ae-4371-9cbc-26a9f59b6db0)" alt="https://leetcode.com/ayush_dongarwar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/i_ayush_dongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/i_ayush_dongarwar" height="30" width="40" /></a>
 </p>
 
