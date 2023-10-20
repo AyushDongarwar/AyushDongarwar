@@ -19,14 +19,198 @@
 
 - ⚡ Fun fact **No**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iayushdongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iayushdongarwar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/i_ayush_dongar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/i_ayush_dongar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ayush_dongarwar" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://repository-images.githubusercontent.com/639401815/9a40c3d8-d6ae-4371-9cbc-26a9f59b6db0)" alt="https://leetcode.com/ayush_dongarwar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/i_ayush_dongarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/i_ayush_dongarwar" height="30" width="40" /></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.bing.com/images/search?view=detailV2&ccid=tmWtQr0C&id=3C5D93000A79879740C7816EF3F1F07D59AE2B2A&thid=OIP.tmWtQr0CuaNw13CHQ4P6OAHaHa&mediaurl=https%3a%2f%2fwww.britefish.net%2fwp-content%2fuploads%2f2019%2f07%2flogo-c-1.png&exph=2000&expw=2000&q=c+language&simid=608039448359473820&FORM=IRPRST&ck=880AABDBFCFB934015CF967E5F7F779B&selectedIndex=21&ajaxhist=0&ajaxserp=0)" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://www.bing.com/images/search?view=detailV2&ccid=RjxpStoI&id=1BF2DC0D84E294E4DFD24D69183BF2DACF949599&thid=OIP.RjxpStoIBm4d5R0iw8oSQwAAAA&mediaurl=https%3a%2f%2fimages.vexels.com%2fmedia%2fusers%2f3%2f166253%2fisolated%2flists%2f14bc03b7b1c2c4e2656fd4c0a981cbbc-cpp-programming-language-icon.png&exph=256&expw=256&q=cpp+language&simid=608015937733338019&FORM=IRPRST&ck=60B4B59CA4411628DFB7E1999F7BA08A&selectedIndex=1&ajaxhist=0&ajaxserp=0)" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://www.bing.com/images/search?view=detailV2&ccid=Ifpd%2fHtD&id=4F73DC198DDB6A1E996E56022C0CA3D943209424&thid=OIP.Ifpd_HtDiK9u6h68SZgNuAHaEL&mediaurl=https%3a%2f%2fwww.vertica.com%2fwp-content%2fuploads%2f2019%2f07%2fGolang.png&exph=890&expw=1576&q=go+language&simid=608053522966851374&FORM=IRPRST&ck=59D7D7D6B3D26D97B15B3CE22AD6FA0C&selectedIndex=0&ajaxhist=0&ajaxserp=0)" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="http://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> </p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'poppins', sans-serif;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            height: 90px;
+            background-color: rgb(36, 39, 39);
+        }
+
+        nav ul {
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul li {
+            list-style: none;
+            margin: 0 23px;
+
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+
+
+        }
+
+        nav ul li a:hover {
+            color: rgb(45, 19, 245);
+            font-size: 1.2rem;
+
+        }
+
+        .left {
+            font-size: 1.5rem;
+        }
+
+        .firstsection {
+            display: flex;
+            justify-content: space-around;
+            margin: 80px 0;
+        }
+
+        .firstsection div {
+            width: 30%;
+        }
+
+        .leftsection {
+
+            font-size: 3rem;
+            margin: 30px 0;
+
+        }
+
+        .rightsection img {
+            width: 80%;
+            margin: 50px 0;
+
+        }
+
+        .purple {
+            color: blue;
+        }
+
+        .tegray {
+            color: azure;
+
+        }
+
+        #element {
+            color: chartreuse;
+        }
+
+        .secondsection {
+            max-width: 80vw;
+            margin: auto;
+            height: 80vh;
+        }
+
+        .secondsection h1 {
+            font-size: 1.9rem;
+        }
+
+    
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="left">Ayush Dongarwar's Portfolio</div>
+            <div class="right">
+                <ul>
+                    <li>
+                        <a href="https://www.linkedin.com/in/iayushdongarwar">Home</a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/iayushdongarwar">About</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/AyushDongarwar">Services</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/AyushDongarwar">Projects</a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/iayushdongarwar">Contact Me</a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/iayushdongarwar">Connect</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="firstsection">
+            <div class="leftsection">Hi 👋, I'm <span class="purple">Ayush Dongarwar..</span>..
+                <div><br>
+                    <div class="short">
+                        <p>And_I work_on..</p>
+                    </div>
+                    <span id="element"></span>
+                </div>
+            </div>
+            <div class="rightsection">
+                <img src="R.png" alt style="
+                    width: 100%;
+                    margin: 0px 5px;">
+
+            </div>
+
+        </section>
+        <hr>
+        <section class="secondsection">
+            <span class="tegray">What i do</span>
+            <br>
+            <h1>>About me and my expirence</h1>
+            <br>
+            <p> I am a passionate and driven individual pursuing a UG degree in Robotics and Artificial Intelligence,
+                and developing my skills as a full-stack blockchain developer. I am excited about the intersection of
+                these technologies and their potential to revolutionize the world.</p>
+<br>
+
+            <p>In my robotics and AI studies, I am learning about the design and development of autonomous robots, as
+                well as the machine learning algorithms that power them. I am particularly interested in using robotics
+                and AI to solve real-world problems in healthcare, transportation, and manufacturing.</p>
+                <br>
+
+            <p>In my blockchain development studies, I am learning about the technology behind distributed ledgers,
+                smart contracts, and decentralized applications. I am excited about the potential of blockchain to
+                create new trustless and secure systems for transactions, data sharing, and governance.</p>
+                <br>
+
+            <p>I am eager to use my skills and knowledge to develop innovative solutions that make a positive impact on
+                the world. I believe that robotics, AI, and blockchain have the potential to create a more efficient,
+                equitable, and sustainable future.</p>
+
+
+        </section>
+    </main>
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <!-- Setup and start animation! -->
+    <script>
+        var typed = new Typed('#element', {
+            strings: ['Robotics Software.', 'Blockchain Developer', 'Smart Contract Development', 'and_Robotics Blockchain Integration...'],
+            typeSpeed: 50,
+        });
+    </script>
+
+</body>
+
+</html>
 
