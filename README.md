@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iayushdongarwar&label=Profile%20views&color=0e75b6&style=flat" alt="iayushdongarwar" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/iayushdongarwar"><img src="https://imgs.search.brave.com/bi3Z0OVytL_FlfY8sL5AreYJMmzFVnlAm1xZSFiswQ0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wcm9p/bmZsdWVudC5iLWNk/bi5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDUvTG9n/by1MaW5rZWRJbi1v/ZmZpY2llbC5wbmc" alt="iayushdongarwar" height="70" width="50"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/iayushdongarwar"><img src="https://imgs.search.brave.com/pV3lj9RouldqKxuEdufplOoiSFhVnaa0yAsOylknUCE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWRpZ2l0YWxhZ2Vu/Y3kuY29tLmF1L3dw/LWNvbnRlbnQvdXBs/b2Fkcy9MaW5rZWRp/bi1sb2dvLW5lb24t/cHVycGxlLmpwZw" alt="iayushdongarwar" height="70" width="50"/></a> </p>
 
 - 🔭 I’m currently working on **Robotics and Blockchain integration**
 
