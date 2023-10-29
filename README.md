@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ayush Dongarwar</h1>
+  <!-- Element to contain animated typing -->
+  <span id="element"></span>
+
+  <!-- Load library from the CDN -->
+  <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+  <!-- Setup and start animation! -->
+  <script>
+    var typed = new Typed('#element', {
+      strings: ['👋👋👋', '<h1 align="center">Hi 👋, I'm Ayush Dongarwar</h1>'],
+      typeSpeed: 50,
+    });
+  </script>
+</body><h1 align="center">Hi 👋, I'm Ayush Dongarwar</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iayushdongarwar&label=Profile%20views&color=0e75b6&style=flat" alt="iayushdongarwar" /> </p>
